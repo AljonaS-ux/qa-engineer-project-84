@@ -44,7 +44,7 @@ test-cases:
        Проверка работы счетчика товаров
     status: fail
 
- - summary: |
+  - summary: |
        Проверка отображения сайта в разных браузерах.
     status: pass
 
