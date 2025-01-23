@@ -48,12 +48,11 @@ test-cases:
        Проверка отображения сайта в разных браузерах.
     status: pass
 
-
- - summary: |
+  - summary: |
        Проверка работы сайта на мобильных устройствах.  
     status: pass
 
- - summary: |
+  - summary: |
        Проверка работы шапки сайта. 
     status: pass
 
