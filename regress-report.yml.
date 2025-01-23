@@ -53,6 +53,10 @@ test-cases:
        Проверка работы сайта на мобильных устройствах.  
     status: pass
 
+ - summary: |
+       Проверка работы шапки сайта. 
+    status: pass
+
 bugreports:
 
   - summary: |
