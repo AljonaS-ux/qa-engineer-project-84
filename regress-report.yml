@@ -8,7 +8,6 @@
     status: fail
 
 bugreports:
-
   - summary: |
       Не работает тортировка товаров по бренду при выбранной категории
     environment: |
